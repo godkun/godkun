@@ -38,7 +38,7 @@ Hi there 👋, I'm godkun 😁.
 - [如何编写高质量的函数 -- 打通任督二脉篇[理论卷]](https://juejin.cn/post/6844903807051268110)
 - [如何编写高质量的函数 -- 打通任督二脉篇[实战卷]](https://juejin.cn/post/6844903807055298573)
 
-<h3 align="center"> My Open Source Projects </h3>
+<h3 align="center"> Open Source Projects </h3>
 
 - https://github.com/apache/dubbo-js
 - https://github.com/seata/seata-js
