@@ -4,6 +4,7 @@ Hi there 👋, I'm godkun 😁.
 - My identity: coder、open source、architecture、interviewer
 - 掘金主页: https://juejin.cn/user/2101921962531469
 - 个人微信公众号: 公众号搜 metalanguageworld
+- 个人微信号：smile__yangkun
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
