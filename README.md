@@ -19,6 +19,7 @@ Hi there 👋, I'm godkun 😁.
 
 <h3 align="center"> My posts </h3>
 
+- [node应用故障定位顶级技巧—动态追踪技术[Dynamic Trace]](https://juejin.cn/post/7142331337582903327)
 - [【开源实践🚀】从0到1搞定官网开发](https://juejin.cn/post/7087734351764389901)
 - [【这些年】沉淀的生产力工具集](https://juejin.cn/post/7064351592543158302)
 - [electron 应用开发优秀实践](https://mp.weixin.qq.com/s/FJQaC5aWPssmjgp4KBmIWA)
