@@ -19,6 +19,7 @@ Hi there 👋, I'm godkun 😁.
 
 <h3 align="center"> My posts </h3>
 
+- [【开源实践】为开源项目写一个闭源产品](https://mp.weixin.qq.com/s/Brz0lyTbRc2u9T2ibr9i8g)
 - [【软技能第一篇】用思维导图开启思考活口](https://mp.weixin.qq.com/s/UyDBH25X7jsAH6qhmj5fUg)
 - [node应用故障定位顶级技巧—动态追踪技术[Dynamic Trace]](https://juejin.cn/post/7142331337582903327)
 - [【开源实践🚀】从0到1搞定官网开发](https://juejin.cn/post/7087734351764389901)
