@@ -6,6 +6,12 @@ Hi there 👋, I'm godkun 😁.
 - 个人微信公众号: 公众号搜 metalanguageworld
 - 个人微信号：smile__yangkun
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/godkun/count.svg" />
+</p>
+
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=godkun&count_private=true&show_icons=true" alt="godkun's GitHub stats" />
