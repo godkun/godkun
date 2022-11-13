@@ -24,6 +24,7 @@ Hi there 👋, I'm godkun 😁.
 
 <h3 align="center"> My posts </h3>
 
+- [【dubbo-js开源实践】先进的 Monorepo 架构](https://mp.weixin.qq.com/s/hfZZYDaIaskGTOwbEZLxXQ)
 - [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://mp.weixin.qq.com/s/sZTQJLG8gsOxBVesZ8oOJg)
 - [花一个小时整了个ikun的篮球空间](https://mp.weixin.qq.com/s/OLDJ05rOj1Ljr-fQ5qWZBQ)
 - [【开源实践】为开源项目写一个闭源产品](https://mp.weixin.qq.com/s/Brz0lyTbRc2u9T2ibr9i8g)
