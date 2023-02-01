@@ -28,6 +28,7 @@ Hi there 👋, I'm godkun 😁.
 
 <h3 align="center"> My posts </h3>
 
+- [预测下我的 2023](https://mp.weixin.qq.com/s/0etXJWNhR3CFSONA3rc_BQ)
 - [Node.js 应用全链路追踪技术——全链路信息存储](https://mp.weixin.qq.com/s/qdWT_2xiuK6ukV2wt0Vdtw)
 - [【dubbo-js开源实践】先进的 Monorepo 架构](https://mp.weixin.qq.com/s/hfZZYDaIaskGTOwbEZLxXQ)
 - [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://mp.weixin.qq.com/s/sZTQJLG8gsOxBVesZ8oOJg)
