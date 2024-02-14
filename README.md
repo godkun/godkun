@@ -56,8 +56,6 @@ Hi there 👋, I'm godkun 😁.
 
 <h3 align="center"> Open Source Projects </h3>
 
-- https://github.com/apache/dubbo-js
-- https://github.com/seata/seata-js
+- https://github.com/rebebuca
 - https://github.com/Monibuca
-- https://m7s.live/
-- https://rebebuca.com
+- https://github.com/apache/dubbo-js
