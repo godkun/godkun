@@ -6,12 +6,11 @@
 Hi there 👋, I'm godkun 😁.
 - 💼 I'm a FrontEnd and software Engineer
 - 掘金主页: https://juejin.cn/user/2101921962531469
-- 个人微信公众号: 公众号搜 metalanguageworld
+- 个人微信公众号: 公众号搜 元语言
 - 个人微信号：smile__yangkun
 - rebebuca: https://rebebuca.com
-- monibuca: https://m7s.live
+- monibuca: https://monibuca.com
 - dubbo-js: https://github.com/apache/dubbo-js
-- seata-js：https://github.com/seata/seata-js
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
