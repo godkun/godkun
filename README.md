@@ -51,9 +51,3 @@ I'm a FrontEnd and software Engineer
 - [从一个数组中找出 N 个数，其和为 M 的所有可能--最 nice 的解法](https://juejin.cn/post/6844903792555589639)
 - [如何编写高质量的函数 -- 打通任督二脉篇[理论卷]](https://juejin.cn/post/6844903807051268110)
 - [如何编写高质量的函数 -- 打通任督二脉篇[实战卷]](https://juejin.cn/post/6844903807055298573)
-
-<h3 align="center"> Open Source Projects </h3>
-
-- https://github.com/rebebuca
-- https://github.com/Monibuca
-- https://github.com/apache/dubbo-js
