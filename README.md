@@ -2,8 +2,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/godkun/count.svg" />
 </p>
-
-Hi there 👋, I'm godkun 😁.
 - 💼 I'm a FrontEnd and software Engineer
 - 掘金主页: https://juejin.cn/user/2101921962531469
 - rebebuca: https://rebebuca.com
