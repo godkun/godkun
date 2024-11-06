@@ -25,7 +25,7 @@ I'm a FrontEnd and software Engineer
 - [AI 搜索的价值在哪里](https://mp.weixin.qq.com/s/FTb9-evHaEft6HUMXK0BMA)
 - [Node.js 应用全链路追踪技术——全链路信息存储](https://mp.weixin.qq.com/s/qdWT_2xiuK6ukV2wt0Vdtw)
 - [node应用故障定位顶级技巧—动态追踪技术[Dynamic Trace]](https://juejin.cn/post/7142331337582903327)
-- [【dubbo-js开源实践】先进的 Monorepo 架构](https://mp.weixin.qq.com/s/hfZZYDaIaskGTOwbEZLxXQ)
+- [【dubbo-js开源实践】先进的 Monorepo 架构](https://mp.weixin.qq.com/s/8_H51UrkLqkmfZJMBjB9Sw)
 - [Node.js 应用全链路追踪技术——[全链路信息获取]](https://mp.weixin.qq.com/s/SpC50ZqbKnKjlGBTSPMd9w)
 - [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://mp.weixin.qq.com/s/sZTQJLG8gsOxBVesZ8oOJg)
 - [花一个小时整了个ikun的篮球空间](https://mp.weixin.qq.com/s/OLDJ05rOj1Ljr-fQ5qWZBQ)
