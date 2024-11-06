@@ -4,7 +4,7 @@
 </p>
 
 I'm a FrontEnd and software Engineer
-- 掘金主页: https://juejin.cn/user/2101921962531469
+- 掘金主页: https://juejin.cn/user/2101921962531469/posts
 - rebebuca: https://rebebuca.com
 - monibuca: https://monibuca.com
 - dubbo-js: https://github.com/apache/dubbo-js
