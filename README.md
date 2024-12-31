@@ -28,7 +28,6 @@
 - [【dubbo-js开源实践】先进的 Monorepo 架构](https://mp.weixin.qq.com/s/8_H51UrkLqkmfZJMBjB9Sw)
 - [Node.js 应用全链路追踪技术——[全链路信息获取]](https://mp.weixin.qq.com/s/SpC50ZqbKnKjlGBTSPMd9w)
 - [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://mp.weixin.qq.com/s/sZTQJLG8gsOxBVesZ8oOJg)
-- [花一个小时整了个ikun的篮球空间](https://mp.weixin.qq.com/s/OLDJ05rOj1Ljr-fQ5qWZBQ)
 - [我当面试官的经历总结](https://mp.weixin.qq.com/s/TG619VHJeu6zFn68PLmExw)
 - [偷偷告诉你，可以用 jupyter 写 ts 和 js 代码](https://juejin.cn/post/7369934780747874316)
 - [【开源实践】为开源项目写一个闭源产品](https://mp.weixin.qq.com/s/Brz0lyTbRc2u9T2ibr9i8g)
